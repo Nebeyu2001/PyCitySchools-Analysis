@@ -8,3 +8,4 @@ and mayor make strategic decisions regarding future school budgets and prioritie
 # Preprocessing 
 The prliminary steps include reading school and student data file, storing into Pandas dataframes and combine the data into
 a single dataset.
+![Screenshot1](https://user-images.githubusercontent.com/64758297/103396410-c016da00-4af8-11eb-9f49-28b9615652cf.PNG)
