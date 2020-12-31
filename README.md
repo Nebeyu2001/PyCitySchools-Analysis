@@ -9,3 +9,4 @@ and mayor make strategic decisions regarding future school budgets and prioritie
 The prliminary steps include reading school and student data file, storing into Pandas dataframes and combine the data into
 a single dataset.
 ![Screenshot1](https://user-images.githubusercontent.com/64758297/103396410-c016da00-4af8-11eb-9f49-28b9615652cf.PNG)
+![s](https://user-images.githubusercontent.com/64758297/103396708-4da6f980-4afa-11eb-8f09-abf9b5ce60e0.PNG)
