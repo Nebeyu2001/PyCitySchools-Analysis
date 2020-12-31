@@ -39,6 +39,7 @@ a single dataset.
 ![s14](https://user-images.githubusercontent.com/64758297/103412834-ae572600-4b3c-11eb-91af-3cd7f99ab1be.PNG)
 
 # Scores by School Type
+![s15](https://user-images.githubusercontent.com/64758297/103412835-aeefbc80-4b3c-11eb-954a-be4b5f66834c.PNG)
 
 # Trends identified after Data Analysis
 
