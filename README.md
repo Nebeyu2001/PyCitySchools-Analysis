@@ -35,7 +35,7 @@ a single dataset.
 ![s12](https://user-images.githubusercontent.com/64758297/103412623-b8c4f000-4b3b-11eb-94b0-277b3d21d287.PNG)
 
 # Scores by School Size
-
+![s13](https://user-images.githubusercontent.com/64758297/103412833-ae572600-4b3c-11eb-92b3-bfd34482de32.PNG)
 
 # Scores by School Type
 
