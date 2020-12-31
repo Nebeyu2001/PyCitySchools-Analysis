@@ -42,6 +42,7 @@ a single dataset.
 ![s15](https://user-images.githubusercontent.com/64758297/103412835-aeefbc80-4b3c-11eb-954a-be4b5f66834c.PNG)
 
 # Trends Identified After Data Analysis
+![s16](https://user-images.githubusercontent.com/64758297/103413235-499ccb00-4b3e-11eb-9395-48de3626a0c4.PNG)
 
 
 
